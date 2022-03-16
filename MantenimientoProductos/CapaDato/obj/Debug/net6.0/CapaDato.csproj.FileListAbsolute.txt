@@ -1,0 +1,15 @@
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\bin\Debug\net6.0\CapaDato.deps.json
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\bin\Debug\net6.0\CapaDato.dll
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\bin\Debug\net6.0\ref\CapaDato.dll
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\bin\Debug\net6.0\CapaDato.pdb
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\bin\Debug\net6.0\CapaEntidades.dll
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\bin\Debug\net6.0\CapaEntidades.pdb
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\obj\Debug\net6.0\CapaDato.csproj.AssemblyReference.cache
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\obj\Debug\net6.0\CapaDato.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\obj\Debug\net6.0\CapaDato.AssemblyInfoInputs.cache
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\obj\Debug\net6.0\CapaDato.AssemblyInfo.cs
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\obj\Debug\net6.0\CapaDato.csproj.CoreCompileInputs.cache
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\obj\Debug\net6.0\CapaDato.csproj.CopyComplete
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\obj\Debug\net6.0\CapaDato.dll
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\obj\Debug\net6.0\ref\CapaDato.dll
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaDato\obj\Debug\net6.0\CapaDato.pdb

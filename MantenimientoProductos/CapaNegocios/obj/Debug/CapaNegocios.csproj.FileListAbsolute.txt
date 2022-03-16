@@ -1,0 +1,11 @@
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaNegocios\bin\Debug\CapaNegocios.dll
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaNegocios\bin\Debug\CapaNegocios.pdb
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaNegocios\bin\Debug\CapaEntidad.dll
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaNegocios\bin\Debug\ClassLibrary2.dll
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaNegocios\bin\Debug\CapaEntidad.pdb
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaNegocios\bin\Debug\ClassLibrary2.pdb
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaNegocios\obj\Debug\CapaNegocios.dll
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaNegocios\obj\Debug\CapaNegocios.pdb

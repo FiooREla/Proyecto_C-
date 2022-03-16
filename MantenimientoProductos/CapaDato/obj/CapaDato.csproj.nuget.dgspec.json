@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Kaira\\Proyecto_Fio\\MantenimientoProductos\\CapaDato\\CapaDato.csproj": {}
+  },
+  "projects": {
+    "E:\\Kaira\\Proyecto_Fio\\MantenimientoProductos\\CapaDato\\CapaDato.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Kaira\\Proyecto_Fio\\MantenimientoProductos\\CapaDato\\CapaDato.csproj",
+        "projectName": "CapaDato",
+        "projectPath": "E:\\Kaira\\Proyecto_Fio\\MantenimientoProductos\\CapaDato\\CapaDato.csproj",
+        "packagesPath": "C:\\Users\\FIO\\.nuget\\packages\\",
+        "outputPath": "E:\\Kaira\\Proyecto_Fio\\MantenimientoProductos\\CapaDato\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Kaira\\Proyecto_Fio\\MantenimientoProductos\\CapaEntidades\\CapaEntidades.csproj": {
+                "projectPath": "E:\\Kaira\\Proyecto_Fio\\MantenimientoProductos\\CapaEntidades\\CapaEntidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Kaira\\Proyecto_Fio\\MantenimientoProductos\\CapaEntidades\\CapaEntidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Kaira\\Proyecto_Fio\\MantenimientoProductos\\CapaEntidades\\CapaEntidades.csproj",
+        "projectName": "CapaEntidades",
+        "projectPath": "E:\\Kaira\\Proyecto_Fio\\MantenimientoProductos\\CapaEntidades\\CapaEntidades.csproj",
+        "packagesPath": "C:\\Users\\FIO\\.nuget\\packages\\",
+        "outputPath": "E:\\Kaira\\Proyecto_Fio\\MantenimientoProductos\\CapaEntidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "edc611c0-1432-4fbd-aa6b-1ff61c06925f": {
+      "ProjectGuid": "edc611c0-1432-4fbd-aa6b-1ff61c06925f",
+      "DisplayName": "CapaDatos",
+      "ColorIndex": 0
+    },
+    "eb4af664-2d04-4518-afa0-85126c4a8f8a": {
+      "ProjectGuid": "eb4af664-2d04-4518-afa0-85126c4a8f8a",
+      "DisplayName": "CapaNegocio",
+      "ColorIndex": 1
+    },
+    "fb8a6880-f9b6-4caa-8dd7-b53c87f7886d": {
+      "ProjectGuid": "fb8a6880-f9b6-4caa-8dd7-b53c87f7886d",
+      "DisplayName": "CapaEntidades",
+      "ColorIndex": 2
+    },
+    "24a33ca5-cae7-4941-9718-bd175fb9fcdf": {
+      "ProjectGuid": "24a33ca5-cae7-4941-9718-bd175fb9fcdf",
+      "DisplayName": "CapaPresentacion",
+      "ColorIndex": 3
+    },
+    "ada9d145-cd83-48ad-be96-8ae8b6a507dc": {
+      "ProjectGuid": "ada9d145-cd83-48ad-be96-8ae8b6a507dc",
+      "DisplayName": "CapaPresentacione",
+      "ColorIndex": 4
+    },
+    "26954d4e-47de-45e1-9fd6-12ad5236560d": {
+      "ProjectGuid": "26954d4e-47de-45e1-9fd6-12ad5236560d",
+      "DisplayName": "CapaDato",
+      "ColorIndex": 5
+    },
+    "c99665fa-40e1-4181-9668-0f0715f8a10a": {
+      "ProjectGuid": "c99665fa-40e1-4181-9668-0f0715f8a10a",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 6
+    },
+    "446f0ebc-7222-412e-8860-4110aef85290": {
+      "ProjectGuid": "446f0ebc-7222-412e-8860-4110aef85290",
+      "DisplayName": "WpfLibrary1",
+      "ColorIndex": 7
+    },
+    "c0914079-1f27-41b3-8bed-32673b3af8c9": {
+      "ProjectGuid": "c0914079-1f27-41b3-8bed-32673b3af8c9",
+      "DisplayName": "CapaDatos",
+      "ColorIndex": 8
+    },
+    "61013f0d-5023-4a1c-b9be-806ce1fec454": {
+      "ProjectGuid": "61013f0d-5023-4a1c-b9be-806ce1fec454",
+      "DisplayName": "CapaEntidad",
+      "ColorIndex": 9
+    },
+    "66fde571-84a7-43bf-b631-5006cf2b0cba": {
+      "ProjectGuid": "66fde571-84a7-43bf-b631-5006cf2b0cba",
+      "DisplayName": "CapaNegocios",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

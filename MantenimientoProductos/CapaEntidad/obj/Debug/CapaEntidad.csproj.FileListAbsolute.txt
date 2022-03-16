@@ -1,0 +1,6 @@
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\Kaira\Proyecto_Fio\MantenimientoProductos\CapaEntidad\obj\Debug\CapaEntidad.pdb
